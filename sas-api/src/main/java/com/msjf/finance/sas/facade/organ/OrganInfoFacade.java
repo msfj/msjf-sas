@@ -1,5 +1,5 @@
 package com.msjf.finance.sas.facade.organ;
-import com.msjf.finance.sas.common.response.Response;
+import com.msjf.finance.msjf.core.response.Response;
 import com.msjf.finance.sas.facade.organ.domain.OrganInfoDomain;
 import java.util.List;
 

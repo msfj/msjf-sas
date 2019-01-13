@@ -1,7 +1,5 @@
 package com.msjf.finance.sas.facade.organ.domain;
-
-import com.msjf.finance.sas.common.response.BaseDomain;
-
+import com.msjf.finance.msjf.core.domian.BaseDomain;
 /**
  * Created by 11509 on 2018/12/18.
  */
